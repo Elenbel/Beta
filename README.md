@@ -1,2 +1,7 @@
-# Beta
-Beta para certificados con QR "TALLER : FORMULA PROYECTOS EFICACES" 🎯 | Desarrollado por @jlianacastillo 👩‍💻 | Proyecto:  Desarrollo de una plataforma para la emisión de certificados de los eventos a realizarse en el programa de Ingeniería de Sistemas de la Universidad de Cundinamarca – Seccional Ubaté 🇨🇴
+# Certificados Expo #UCundinamarca 🚀 "Encuentro Multidisciplinario Académico de Saberes" 🇨🇴
+* Desarrollado por @jlianacastillo 👩‍💻
+* Lenguaje de programacion : JavaScript 💛
+* Frameworks : PDFLib y SavePDF 📚
+
+# Talleristas del 18 de oct 👩‍🏫👨‍🏫
+Acceso a certificacion (Docentes, graduados y estudiantes) que fueron talleristas en el encuentro multidisciplinario academico de saberes en la Universidad de Cundinamarca 
